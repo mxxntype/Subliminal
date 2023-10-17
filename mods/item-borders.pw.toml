@@ -1,0 +1,13 @@
+name = "Item Borders"
+filename = "ItemBorders-1.19.1-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/b1fMg6sH/versions/yvFrIG6I/ItemBorders-1.19.1-1.2.0.jar"
+hash-format = "sha1"
+hash = "151989d3b472a0da7ca4a1694f261ec22e93b0e7"
+
+[update]
+[update.modrinth]
+mod-id = "b1fMg6sH"
+version = "yvFrIG6I"

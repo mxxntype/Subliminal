@@ -1,0 +1,13 @@
+name = "Origin Realms - Legendary Tooltips"
+filename = "OR - LegendaryTooltips v1.3.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CjZB9nf0/versions/wb9zgjRp/OR%20-%20LegendaryTooltips%20v1.3.1.zip"
+hash-format = "sha1"
+hash = "6605aaf8d4f803a777e0e228b8a7f321bf884359"
+
+[update]
+[update.modrinth]
+mod-id = "CjZB9nf0"
+version = "wb9zgjRp"

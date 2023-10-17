@@ -1,0 +1,13 @@
+name = "Extra Zombie Drops"
+filename = "Zombie Mob drops 1.19.2 v3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "818c80c13980ddbe4ac289ac5be33724e163584e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4465358
+project-id = 822109

@@ -1,0 +1,13 @@
+name = "Geometric Font 2"
+filename = "GeoFont-MC-2-v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YNuo4qic/versions/izbLhzpl/GeoFont-MC-2-v1.1.zip"
+hash-format = "sha1"
+hash = "6d0a22c6c96cd4165fa796100166e651824ca059"
+
+[update]
+[update.modrinth]
+mod-id = "YNuo4qic"
+version = "izbLhzpl"

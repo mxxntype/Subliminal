@@ -1,0 +1,13 @@
+name = "Guns Without Roses"
+filename = "gunswithoutroses-1.19-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jrSCjxKy/versions/1.1.1/gunswithoutroses-1.19-1.1.1.jar"
+hash-format = "sha1"
+hash = "6c2fdfe353e3528120c64430887627881154cb4a"
+
+[update]
+[update.modrinth]
+mod-id = "jrSCjxKy"
+version = "3LTKqzfc"

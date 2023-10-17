@@ -1,0 +1,13 @@
+name = "Better F3"
+filename = "betterf3-1.19.2-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V8TerSIX/versions/YByTY2Ng/betterf3-1.19.2-1.0.jar"
+hash-format = "sha1"
+hash = "2d80cf0d85a8e732087ce073bf0d6933d48bf3eb"
+
+[update]
+[update.modrinth]
+mod-id = "V8TerSIX"
+version = "YByTY2Ng"

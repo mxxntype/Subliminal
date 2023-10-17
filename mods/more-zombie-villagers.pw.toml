@@ -1,0 +1,13 @@
+name = "More Zombie Villagers"
+filename = "morezombievillagers-1.19.2-3.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c45fa34d88baa4ecd2423e4a4f6beff1af33c274"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4397517
+project-id = 347338
