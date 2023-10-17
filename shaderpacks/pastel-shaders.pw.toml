@@ -1,0 +1,13 @@
+name = "Pastel Shaders"
+filename = "Pastel-Shaders-Universal-v1.061.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e80e68576a03e482d1423f2838e37f3060c736a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4354988
+project-id = 813185

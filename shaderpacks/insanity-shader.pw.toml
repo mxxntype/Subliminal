@@ -1,0 +1,13 @@
+name = "🎃 Insanity Shader"
+filename = "Insanity-Shader-Universal-v1.500.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c2389e11bb8a249aebb11686354d28003fd1cc2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4794932
+project-id = 618217
