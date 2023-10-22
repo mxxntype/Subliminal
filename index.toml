@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "c4d342a7bc3d8efdef5dca76daddffc511567d35cacd46c858cdb9c1bf82bd90"
+hash = "f4f299e08182f37c81a4ff8a875058ca51b750cd39352c916567fa422349e200"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "195cbb146d30bd6f51a00e08b18403640212d1e227da6cc45b5ecbf23ed3f398"
+hash = "58ca900c088deaee6d6801c247cb7780fedb0cafcf046caed79a6ecef72c75c3"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "9549adcd87288de975312c8c857773d8a882e11c6f829c07700553c7c62a11ba"
+hash = "e19e2c6e56c0cd3f42f5d94b67c3eb72aa4d3963f0b463716d399d5e50b500dd"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-man-from-the-fog.pw.toml"
-hash = "a27a394e47461907e7f0a7026a32c9bf362de8a4c1a5df2a0865c1250974e2a3"
+hash = "6c3349f0e2515d293f32337aa6b3cfa982bdb1a7f38886373d1981d3e5026be1"
 metafile = true
 
 [[files]]
