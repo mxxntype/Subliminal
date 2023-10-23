@@ -429,11 +429,6 @@ hash = "82fd446c810f31504895dbb19438ffab8c7b9dbcdee15a7a9d173bb0211f8f60"
 metafile = true
 
 [[files]]
-file = "mods/loot-beams.pw.toml"
-hash = "444cb4e0756ce7ad94d13261adfffebaf85729566a58b2d0a6b7e87baa44555e"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
 metafile = true
