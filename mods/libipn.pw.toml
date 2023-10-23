@@ -1,0 +1,13 @@
+name = "libIPN"
+filename = "libIPN-forge-1.19-4.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/onSQdWhM/versions/JflnY9yN/libIPN-forge-1.19-4.0.0.jar"
+hash-format = "sha1"
+hash = "25bf65178ab71ddba5204e3f40ebdb3d475d3272"
+
+[update]
+[update.modrinth]
+mod-id = "onSQdWhM"
+version = "JflnY9yN"

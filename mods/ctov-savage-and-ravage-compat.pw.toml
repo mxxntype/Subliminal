@@ -1,0 +1,13 @@
+name = "CTOV - Savage and Ravage Compat"
+filename = "ctov-savage-and-ravage-compat-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p7P0HjJw/versions/5y3TVJkz/ctov-savage-and-ravage-compat-1.0.jar"
+hash-format = "sha1"
+hash = "18bdea43542c30813bbf1fc5cf8a5993529bee7a"
+
+[update]
+[update.modrinth]
+mod-id = "p7P0HjJw"
+version = "5y3TVJkz"

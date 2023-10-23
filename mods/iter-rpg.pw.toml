@@ -1,0 +1,13 @@
+name = "Iter RPG"
+filename = "iterpg-0.4.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "331f64ba9779ab401f95b723c74dc7a9e2a8f4ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4796776
+project-id = 561699

@@ -1,0 +1,13 @@
+name = "Unity: Dark Edition"
+filename = "Unity-1.19.2-Dark-1.1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EkrInWCl/versions/kewZadUO/Unity-1.19.2-Dark-1.1.0.zip"
+hash-format = "sha1"
+hash = "f78355bf0ae346d2f60a811df1f1a76641cd1ded"
+
+[update]
+[update.modrinth]
+mod-id = "EkrInWCl"
+version = "kewZadUO"
