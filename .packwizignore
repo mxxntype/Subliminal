@@ -1,3 +1,4 @@
 *.md
 *.mrpack
+*.zip
 docker-compose.yml
