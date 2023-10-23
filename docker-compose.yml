@@ -1,0 +1,22 @@
+version: '3'
+services:
+  subliminal-server:
+    image: itzg/minecraft-server
+    ports:
+      - "25565:25565"
+    volumes:
+      - /opt/subliminal-server:/data
+    environment:
+      # Core
+      EULA: "TRUE"
+      TYPE: "FORGE"
+      VERSION: "1.19.2"
+      PACKWIZ_URL: "https://raw.githubusercontent.com/mxxntype/Subliminal/main/pack.toml"
+      # Performance
+      MEMORY: "8G"
+      USE_AIKAR_FLAGS: "true"
+      # Configuration
+      MODE: "survival"
+      DIFFICULTY: "hard"
+      MAX_PLAYERS: "8"
+      MOTD: "Packwiz + Docker | Forge 1.19.2"
