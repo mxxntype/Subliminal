@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "2c5720479e61da29dfb3b4868acab887d72e561167af4b1f7cc23ebea83703c0"
+
+[[files]]
 file = "mods/DynamicTrees-Terralith-1.19.2-1.1.0.jar"
 hash = "b505bc24ca921ad1e6f1636521e08a0c04fd8acff3128308c6fb66c0fff9ba2f"
 
@@ -37,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "737d7767b4e9e28e3e60805e3f980120b005803c93837e484d935f6156199893"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e06965d8aea5dee2531377f962616b4843f3af7d5bea5b213a0b257f4595af0f"
 metafile = true
 
 [[files]]
@@ -195,6 +204,11 @@ hash = "bf958daadb25a359c1348d38781efc5bc24f344115a8be72a42d120b2e300690"
 metafile = true
 
 [[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "7c4ce02842ac040273ae9c08f527c55168ea18be073ebfc0aa6d279b8f1033fb"
+metafile = true
+
+[[files]]
 file = "mods/create-crystal-clear.pw.toml"
 hash = "8520d6e202b7fd6b5edb0456e8974b45cdee30c2cc7df345c329cca3bd3e258a"
 metafile = true
@@ -202,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "85449530600b2d66b36bf519dcc02065f65cdc54861da7f21f9257ed8f3f96c7"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "69ffaffa19769f5190fa26ece9a0c657941ae3c9c3ccecf76bc0598b3ad75c9e"
 metafile = true
 
 [[files]]
@@ -222,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "e383476cde5d88b8f24936f1030defde1b202e6eedd52e078169f19fc7735c7c"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "c8d95de5b5e8a481916c5f3ee5de511046de53d267bcff7bfcf4392b1a3a4030"
 metafile = true
 
 [[files]]
@@ -546,6 +570,11 @@ metafile = true
 [[files]]
 file = "mods/savage-and-ravage.pw.toml"
 hash = "0c4f398645a0fdbe74cd7204efafe1348c448170dab1e007e1d00d8a832e63f5"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "6b18e2055cddb936210b4f5a81374e509f32513c2716f7d240647e04b17109aa"
 metafile = true
 
 [[files]]
