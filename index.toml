@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "2c5720479e61da29dfb3b4868acab887d72e561167af4b1f7cc23ebea83703c0"
 
 [[files]]
-file = "mods/DynamicTrees-Terralith-1.19.2-1.1.0.jar"
-hash = "b505bc24ca921ad1e6f1636521e08a0c04fd8acff3128308c6fb66c0fff9ba2f"
-
-[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "ddd15e31766ac378b3ef8e13886dbb20b4f9b9aeed6171d13e49b3eea4d8c438"
 metafile = true
@@ -302,10 +298,6 @@ metafile = true
 file = "mods/delightful.pw.toml"
 hash = "8efc269dee36af1fbcba2a0d29f697b710af95c11dcc466a1f4c514c24a2a47d"
 metafile = true
-
-[[files]]
-file = "mods/dttectonic-1.1.10.jar"
-hash = "19b81e0f59edc10d861720385a95bdfbe11c2b0ae73c4533e6e8dd2cee5e2eea"
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
