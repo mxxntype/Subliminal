@@ -313,28 +313,8 @@ hash = "e56292027dc8c00e118e258c4f0b2846e7acfbc5683123535c2997c5869a1a6b"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-quark.pw.toml"
-hash = "55760fa48da9646287c1e548f20ede55356f5eea7d05a0df2c35fb0a4f6a6ed0"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-tectonic.pw.toml"
-hash = "2a345af75bf61e620e8c11d7ea572f9662e626cf8d51da622617fca12bd145e9"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-terralith.pw.toml"
-hash = "46a2735da0bb6fe4fa4ad6074d7ab055fdbeb36701e0a22ae38a924a8b9969d0"
-metafile = true
-
-[[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "f2ab9729a2084a1d1eb37465de73b4523706c4fb66064c114c9a1f61ddbe177d"
-metafile = true
-
-[[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "ddc0ef30e81f949b9ba1413ac42e0a4beaa6aea9ff5c705a047b96ae396978f3"
 metafile = true
 
 [[files]]
