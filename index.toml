@@ -5,6 +5,118 @@ file = "LICENSE"
 hash = "2c5720479e61da29dfb3b4868acab887d72e561167af4b1f7cc23ebea83703c0"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "c942f035a30286144e7b55937b5de1c14fadd7afa60335a48af7fb882d434eae"
+
+[[files]]
+file = "config/ambientsounds-client.json"
+hash = "a57529df13d61d5989ba3cadc5ad1ccfd2a553623b158fac0fbe0701b190f75a"
+
+[[files]]
+file = "config/badmobs-common.toml"
+hash = "dc51541cf060fe12e407a8766c1c688a18cbe5ed9e338aef4f0a30833de36a4d"
+
+[[files]]
+file = "config/emi.css"
+hash = "ef9c4f07671656ef0e21c0da089f674ea2e4613a612c7c8d7418dfd252b75842"
+
+[[files]]
+file = "config/expandedstorage.json"
+hash = "f9d9187aa13720c1fb62eb93e9b1a2b680d8757da312047113c5007de287a8b0"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "09f2c592919806d6784e9ae268d6e77d9e688928d0793c53467363266803ff9b"
+
+[[files]]
+file = "config/inventoryprofilesnext/mxxntype.tplinkdns.com/lockSlots.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/inventoryprofilesnext/mxxntype.tplinkdns.com/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/itemphysic-client.json"
+hash = "6aa185b27143baec2162d86d14853f84c7b9fc48de36d81c8e8be3b612ec88b2"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "2125b143c8f55d138f4be072a90b8fa6b49ee7cf14d32894d89ce0d90a9ebf86"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "8671913dda98a67818f82c633f51e514cca5f4f1b8fc8bc63b302d366fb65969"
+
+[[files]]
+file = "config/rubidium-mixins.properties"
+hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
+
+[[files]]
+file = "config/smoothswapping.json"
+hash = "3edb7a3cca0e7c3ec09f642516aba923bd8eba7ca414289a4103912fd24a7e66"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "28861af3bf8cbe5d2a33ec23d933788b3b1d80de11b324c1bb25ef0ab95fe056"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "12d59cbd75c19a2bfb7f837f161f762e6136e834b07d3c3c5bba806a66e34bc2"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "d39aa187ead698ee9cb8bff61431b8ac5edf63cd7ef9e5037af4ffee223ae5f5"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "d1f01c1b88e9f0273da1a90cd0c5d0ff62c2313b7ef4c901993aa8cafa84e5d6"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "ca1826069c11dbd83111e74c1705167ac7728c44b6b3ae1b7ed16e8fb2270ffd"
+
+[[files]]
+file = "config/zombieawareness/ClientConfig.toml"
+hash = "ad331ad4b1cdcc398c7239b5667395b2adc0d74bf19972d733c5eea2653f50b5"
+
+[[files]]
+file = "config/zombieawareness/Features.toml"
+hash = "d14c7b8d4bef32d18a32e8d73d1ca18c9914269053f3a078533fa898089b51d8"
+
+[[files]]
+file = "config/zombieawareness/General-1.toml.bak"
+hash = "cfcb4616c74113fee92337f949b96d9b3c3325d43d368dee9b19e9b6864cf531"
+
+[[files]]
+file = "config/zombieawareness/General.toml"
+hash = "990c764f26b2b8e47d6d5be5edabe0d4dcd369193cdd1a49f7f9c0fb1b9e35e6"
+
+[[files]]
+file = "config/zombieawareness/MobLists.toml"
+hash = "c6eba7f9a9b987b4a52a3a32e4af56a6dd6ab0d26e2770ac55b7d4e3e1165a0c"
+
+[[files]]
+file = "config/zombieawareness/PlayerRulesAndLists.toml"
+hash = "2cf7051648069a23b26eebe7f5156317e246ef11d663322d6a0770d2b32a6488"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "822acea1296bed2244d313189bd2cd6438ece4f49fa129bf1e371c9306f06243"
 metafile = true

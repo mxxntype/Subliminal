@@ -1,0 +1,184 @@
+{
+    "ModSettings": {
+        "move_just_refill_modifier": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "highlight_foused_items_foreground": false,
+        "highlight_foused_items_color": "#CBA6F732",
+        "highlight_foused_items_bg_color": "#CBA6F732",
+        "enable_profiles": {
+            "value": false
+        },
+        "villager_trading_enable": {
+            "value": false
+        },
+        "enable_updates_check": false,
+        "add_interval_between_clicks": {
+            "value": true
+        },
+        "highlight_clicking_slot": false,
+        "restock_hotbar": {
+            "value": true
+        },
+        "first_run": false
+    },
+    "GuiSettings": {
+        "enable_inventory_editor_button": {
+            "value": false
+        },
+        "enable_inventory_settings_button": {
+            "value": false
+        },
+        "enable_profiles_ui": {
+            "value": false
+        }
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_empty_hotbar_as_semi_locked": {
+            "value": false
+        },
+        "show_locked_slots_bg_color": "#F38BA832",
+        "show_locked_slots_hotbar_color": "#F38BA832",
+        "locked_slots_foreground_style": 3
+    },
+    "AutoRefillSettings": {
+        "disable_for_drop_item": {
+            "value": true
+        },
+        "auto_refill_prefer_smaller_stacks": true,
+        "refill_armor": {
+            "value": false
+        },
+        "refill_before_tool_break": {
+            "value": false
+        },
+        "auto_refill_match_any_food": true,
+        "allow_break_for_non_enchanted": {
+            "value": true
+        },
+        "visual_durability_notification": {
+            "value": false
+        },
+        "audio_durability_notification": {
+            "value": false
+        },
+        "number_of_notifications": 1,
+        "visual_replace_success_notification": {
+            "value": false
+        },
+        "audio_replace_success_notification": {
+            "value": false
+        },
+        "visual_replace_failed_notification": {
+            "value": false
+        },
+        "audio_replace_failed_notification": {
+            "value": false
+        },
+        "type_visual_replace_failed_notification": "HOTBAR"
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "BUTTON_3"
+            }
+        },
+        "move_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "throw_all_items": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_to_chest": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "scroll_to_inventory": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "open_gui_editor": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "apply_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "next_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "prev_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_1": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_2": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "profile_3": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "save_as_profile": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "global_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "local_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "do_global_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "do_local_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "copy_nbt": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "copy_item_id": {
+            "main": {
+                "keys": ""
+            }
+        }
+    },
+    "Tweaks": {
+        "container_swipe_moving_items": {
+            "value": false
+        }
+    }
+}
