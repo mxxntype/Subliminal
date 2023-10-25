@@ -124,6 +124,11 @@ hash = "ec2c604b2ee6b27810c4b856fe2e00afeafa4a2e65c776539e8996892a9d919c"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "3369ccf13cbc0d0b3ca896002a55c64f56fe4903868cce9156a6dad22e99a46c"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "72b4e9baeb3065481aeaf244de7c664c10d5c791991fff6bf626a472d713cc0e"
 metafile = true
@@ -640,6 +645,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "d32ec93eb025c688325e27d255e547439b1c7b6eb1f9f6621c8f985d683cd220"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "2245e81c8bdd63131b6fdc7fb218eb3b6ad6c48cbb0014b098ba0f6605fdf99b"
 metafile = true
 
 [[files]]
