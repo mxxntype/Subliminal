@@ -191,6 +191,11 @@ hash = "5b0ab1aa74c8c26f35d56c5a4922a6ce843193c9c094c3ad1e0c9c158497956f"
 metafile = true
 
 [[files]]
+file = "mods/biome-makeover.pw.toml"
+hash = "d152af1a97c35ec2f33c5842e897908b1e543f065fee7c57c7add4422d57b83e"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "079bdd15fe839b3937ae6f75e421c9d72e170374497055858d7265100a50fd48"
 metafile = true
@@ -406,6 +411,11 @@ hash = "87c292d800300032816b0478435b1361752f19c401af9084d87c97f17fe25267"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "de4621eabdc2318d7f0ac3f671b3261d7579c45fe888a835e181eb50534fae23"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-celestials.pw.toml"
 hash = "dd62a3608a8a014eeb36db4d5a75e2300e2ea4bb3cc07f806469a455b99c6c69"
 metafile = true
@@ -461,6 +471,16 @@ hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
+file = "mods/galosphere-delight-a-farmers-delight-add-on.pw.toml"
+hash = "2a088f94d1b1b3a647ab0ba2984631d6b16391a63d79e5ab1ddb819b92d4a523"
+metafile = true
+
+[[files]]
+file = "mods/galosphere.pw.toml"
+hash = "7aedf0a040f4320ac3e97634819992259a8aa78f714fa7f7c4ca7ae982afb140"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
 metafile = true
@@ -478,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "93cfebe5595c980571d565e98aa6bfea462213d50684444675741ffbf099fd01"
+metafile = true
+
+[[files]]
+file = "mods/illuminations-forge.pw.toml"
+hash = "dbd150dbc7e57435ab375eeca7402400a0588071e551a5121988f5fefc2fed48"
 metafile = true
 
 [[files]]
@@ -526,6 +551,11 @@ hash = "82fd446c810f31504895dbb19438ffab8c7b9dbcdee15a7a9d173bb0211f8f60"
 metafile = true
 
 [[files]]
+file = "mods/loot-beams.pw.toml"
+hash = "444cb4e0756ce7ad94d13261adfffebaf85729566a58b2d0a6b7e87baa44555e"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
 metafile = true
@@ -553,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/neruina.pw.toml"
 hash = "7f3487d0573f20a5073a29ecf252b9e20c9cbbfa714019d2c54819099051dcad"
+metafile = true
+
+[[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "7942da454d725373481664c245954c24764d26317968c8c4473743e5f54bbf1d"
 metafile = true
 
 [[files]]
