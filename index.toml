@@ -5,6 +5,11 @@ file = "LICENSE"
 hash = "2c5720479e61da29dfb3b4868acab887d72e561167af4b1f7cc23ebea83703c0"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "822acea1296bed2244d313189bd2cd6438ece4f49fa129bf1e371c9306f06243"
+metafile = true
+
+[[files]]
 file = "mods/abnormals-delight.pw.toml"
 hash = "ddd15e31766ac378b3ef8e13886dbb20b4f9b9aeed6171d13e49b3eea4d8c438"
 metafile = true
@@ -112,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "079bdd15fe839b3937ae6f75e421c9d72e170374497055858d7265100a50fd48"
+metafile = true
+
+[[files]]
+file = "mods/blur-forge.pw.toml"
+hash = "14bb0ba9f3e8c23e55add643b6617cf0674bbae19852ac7bc40a4131f0955dbd"
 metafile = true
 
 [[files]]

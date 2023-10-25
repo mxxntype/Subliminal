@@ -1,4 +1,6 @@
 *.md
 *.mrpack
 *.zip
+options.txt
+config/
 docker-compose.yml
