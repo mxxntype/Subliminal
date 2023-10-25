@@ -308,6 +308,11 @@ file = "mods/dttectonic-1.1.10.jar"
 hash = "19b81e0f59edc10d861720385a95bdfbe11c2b0ae73c4533e6e8dd2cee5e2eea"
 
 [[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "e56292027dc8c00e118e258c4f0b2846e7acfbc5683123535c2997c5869a1a6b"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trees-quark.pw.toml"
 hash = "55760fa48da9646287c1e548f20ede55356f5eea7d05a0df2c35fb0a4f6a6ed0"
 metafile = true
@@ -585,6 +590,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "93621a2779605090b4aa0982933cff2b002ec33e025644fc1203e151da030bf6"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "398222d52f12efff3677e283566822a2766a68d98267261c916eda974a899c27"
 metafile = true
 
 [[files]]
