@@ -20,3 +20,8 @@ services:
       DIFFICULTY: "hard"
       MAX_PLAYERS: "8"
       MOTD: "Packwiz + Docker | Forge 1.19.2"
+      ONLINE_MODE: "false"
+      RCON_CMDS_STARTUP: |-
+        whitelist on
+        whitelist add mxxntype
+        op mxxntype
