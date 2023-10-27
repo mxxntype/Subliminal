@@ -1,0 +1,13 @@
+name = "Guard Villagers"
+filename = "guardvillagers-1.19.2-1.5.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H1sntfo8/versions/F2iGn9UV/guardvillagers-1.19.2-1.5.8.jar"
+hash-format = "sha1"
+hash = "6fcfad7af4e1927e3ab86ed43f3721f78c517bb1"
+
+[update]
+[update.modrinth]
+mod-id = "H1sntfo8"
+version = "F2iGn9UV"

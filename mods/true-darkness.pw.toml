@@ -1,0 +1,13 @@
+name = "True Darkness"
+filename = "darkness-forge-mc119-2.0.101.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ja7zPEaN/versions/Jknh5xMh/darkness-forge-mc119-2.0.101.jar"
+hash-format = "sha1"
+hash = "438a7c243af5afc9f53212449eb37b8c3d8994af"
+
+[update]
+[update.modrinth]
+mod-id = "Ja7zPEaN"
+version = "Jknh5xMh"
