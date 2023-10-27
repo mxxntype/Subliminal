@@ -471,11 +471,6 @@ hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
-file = "mods/galosphere-delight-a-farmers-delight-add-on.pw.toml"
-hash = "2a088f94d1b1b3a647ab0ba2984631d6b16391a63d79e5ab1ddb819b92d4a523"
-metafile = true
-
-[[files]]
 file = "mods/galosphere.pw.toml"
 hash = "7aedf0a040f4320ac3e97634819992259a8aa78f714fa7f7c4ca7ae982afb140"
 metafile = true
