@@ -241,6 +241,11 @@ hash = "c85f1cc3fa1a6b84c406c05fc4d60127db8f8048549b6c21fa92eb0290f46d78"
 metafile = true
 
 [[files]]
+file = "mods/catalogue.pw.toml"
+hash = "b3c16f0a62d3cd60e7db213c748920aa03a8dfd9d731a2723f0dcd59515b562b"
+metafile = true
+
+[[files]]
 file = "mods/cave-dweller-reimagined.pw.toml"
 hash = "1bcd856ebd0358a45105fa5bcafcd649c8f08c7a19338208eeaeb885c63f818e"
 metafile = true
@@ -273,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "9bf01fe26246b44465ba286127fd6808e85188c9df32cbf539b697f220669942"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
 
 [[files]]
@@ -476,6 +486,11 @@ hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "6a75531ac880801549171a165149a721c05aa50256fe4b860672c3f7bd61861e"
+metafile = true
+
+[[files]]
 file = "mods/funky-flora.pw.toml"
 hash = "109370f9901d7a710327b259e52412bd3f943fda671ade1cad3e7d10a4acbece"
 metafile = true
@@ -488,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "d83b4072a6c23924f4d75a223fad99743f16e2b80df27fb0fdbcd8b00c233308"
 metafile = true
 
 [[files]]
@@ -701,6 +721,21 @@ hash = "93621a2779605090b4aa0982933cff2b002ec33e025644fc1203e151da030bf6"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "64d6d2b4b9b9960013ee67b62bfee64daec02d957b1689c783a1ea01c24d445a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "6d00f58cff712ec72a8ae7a682faf73777cf9e37c2b73bf0ed57ebe55312da0b"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "2fe020f3f2a0edeb7f718449e12bddda0a03f5a0aa768a7195006f6a144e9c8c"
+metafile = true
+
+[[files]]
 file = "mods/spelunkers-charm-ii.pw.toml"
 hash = "ab9337fd39c6bab31b358f7866aebd4f9f79dcbe05a585f7ed09ae475b630a66"
 metafile = true
@@ -783,11 +818,6 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "2245e81c8bdd63131b6fdc7fb218eb3b6ad6c48cbb0014b098ba0f6605fdf99b"
-metafile = true
-
-[[files]]
-file = "mods/tough-as-nails.pw.toml"
-hash = "ee280fb779044cdf3cc2790e3afc11d75abdac82d3076be675da1714174b1fc9"
 metafile = true
 
 [[files]]
