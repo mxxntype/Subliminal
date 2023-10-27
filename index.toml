@@ -116,11 +116,6 @@ hash = "0cadff5cf99f69881fa07016c48106562d8eee295774109cfab3ce1574d0b3c7"
 metafile = true
 
 [[files]]
-file = "mods/animal_feeding_trough.pw.toml"
-hash = "21287557c3e1a50a0dc5682f8a10d4dcf8942566ccdbd28c656256595c5c564b"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "737d7767b4e9e28e3e60805e3f980120b005803c93837e484d935f6156199893"
 metafile = true
@@ -223,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/brvsb.pw.toml"
 hash = "82a6f393ff18ab03d047f1c5794a9f887482ca03877ddc429a7eb488e92dab76"
+metafile = true
+
+[[files]]
+file = "mods/bushier-flowers.pw.toml"
+hash = "b8c07ab025c73fd3d6b7d5602bb1d07a2bf411dbd6c7d7cb66f3ee305e39e113"
 metafile = true
 
 [[files]]
@@ -471,6 +471,11 @@ hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
+file = "mods/funky-flora.pw.toml"
+hash = "109370f9901d7a710327b259e52412bd3f943fda671ade1cad3e7d10a4acbece"
+metafile = true
+
+[[files]]
 file = "mods/galosphere.pw.toml"
 hash = "7aedf0a040f4320ac3e97634819992259a8aa78f714fa7f7c4ca7ae982afb140"
 metafile = true
@@ -586,6 +591,11 @@ hash = "7942da454d725373481664c245954c24764d26317968c8c4473743e5f54bbf1d"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "28e52215ad15eb6ba9f8a4cdda8bbadc25dd9bb3a241b66b2048c64e44e1e709"
 metafile = true
@@ -671,6 +681,11 @@ hash = "0c4f398645a0fdbe74cd7204efafe1348c448170dab1e007e1d00d8a832e63f5"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "6b18e2055cddb936210b4f5a81374e509f32513c2716f7d240647e04b17109aa"
 metafile = true
@@ -681,13 +696,33 @@ hash = "93621a2779605090b4aa0982933cff2b002ec33e025644fc1203e151da030bf6"
 metafile = true
 
 [[files]]
+file = "mods/spelunkers-charm-ii.pw.toml"
+hash = "ab9337fd39c6bab31b358f7866aebd4f9f79dcbe05a585f7ed09ae475b630a66"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "398222d52f12efff3677e283566822a2766a68d98267261c916eda974a899c27"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "4a66be28205f9035ada10c6e71c4f358c3b3bca8a55eff037ee100afb1fd839b"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "1ab6b34e42b6bc8c2f801e306de0957de2f0f964734acdc11cfa7dd1c82b55a0"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "aca72bb930f282a424763ae45f941f1c0ff17810c9ac4ed59bdd29b903657927"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "c0e3742de5b13c1526799649510b7f573bb4bb340527df9eb21579fc71a4605d"
 metafile = true
 
 [[files]]
@@ -743,6 +778,11 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "2245e81c8bdd63131b6fdc7fb218eb3b6ad6c48cbb0014b098ba0f6605fdf99b"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "ee280fb779044cdf3cc2790e3afc11d75abdac82d3076be675da1714174b1fc9"
 metafile = true
 
 [[files]]

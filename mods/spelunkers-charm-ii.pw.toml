@@ -1,0 +1,13 @@
+name = "Spelunker's Charm II"
+filename = "SpelunkersCharm-3.2.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WKLy3h5B/versions/B48qx3Gb/SpelunkersCharm-3.2.1-1.19.2.jar"
+hash-format = "sha1"
+hash = "8081b6948d41944b01d1045b8c657588ecbab1ac"
+
+[update]
+[update.modrinth]
+mod-id = "WKLy3h5B"
+version = "B48qx3Gb"

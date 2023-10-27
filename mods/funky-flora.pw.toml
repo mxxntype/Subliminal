@@ -1,0 +1,13 @@
+name = "Funky Flora"
+filename = "funky-flora-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UJibvFJR/versions/CA1bBPsj/funky-flora-1.4.1.jar"
+hash-format = "sha1"
+hash = "435ca81e0f34752ab8983e0ccaae96390cbec798"
+
+[update]
+[update.modrinth]
+mod-id = "UJibvFJR"
+version = "CA1bBPsj"
