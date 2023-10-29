@@ -1,0 +1,13 @@
+name = "Sleep Tight"
+filename = "sleep_tight-1.19.2-1.0.23.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tNai0h2Y/versions/Fnk9xzxQ/sleep_tight-1.19.2-1.0.23.jar"
+hash-format = "sha1"
+hash = "dba0d12353ec7f766a8263450b8f746ac09ec451"
+
+[update]
+[update.modrinth]
+mod-id = "tNai0h2Y"
+version = "Fnk9xzxQ"

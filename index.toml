@@ -511,6 +511,11 @@ hash = "e310a2c19629680e94525d31a928356af849bdcd004f53dbd70c7b99fec793a8"
 metafile = true
 
 [[files]]
+file = "mods/extractinator.pw.toml"
+hash = "4737c663c9e35af6e98edddc8ae8dde044abe9d58c2183363581e0ea539bee65"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "43f19afbb308bff77774f842401b2b68cf60252f9e65091686a0c90634e6679a"
 metafile = true
@@ -556,6 +561,11 @@ hash = "d83b4072a6c23924f4d75a223fad99743f16e2b80df27fb0fdbcd8b00c233308"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "b6e8ce03539086dd35fe1a87295bde0a70302c73a97c4cf11da7329ab2f68340"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "06c9612cb163be9dd3c4a0c2b40005918d82fc1f5560a7184a4b05b71f9f85e0"
 metafile = true
@@ -578,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "cdd6b4b93d6d523681108eb62a7797a437663b16ea20b11337c34e540ebab92a"
+metafile = true
+
+[[files]]
+file = "mods/heartstone.pw.toml"
+hash = "0e7d5ad70af110b7cf953e77001ced99c5bdf8d2774198fdcd52ea18456f0938"
 metafile = true
 
 [[files]]
@@ -808,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
+metafile = true
+
+[[files]]
+file = "mods/sleep-tight.pw.toml"
+hash = "4adb5c9ae4fa42715e990624f517a89827c4e72d78bd7db0a66e61bafb740cc0"
 metafile = true
 
 [[files]]
