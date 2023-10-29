@@ -22,16 +22,19 @@ services:
       MOTD: "Packwiz + Docker | Forge 1.19.2"
 
       ONLINE_MODE: "false"
-      ENABLE_WHITELIST: "true"
-      WHITELIST: |
-        mxxntype
-      OPS: |
-        mxxntype
+      # ENABLE_WHITELIST: "true"
+      # WHITELIST: |
+      #   mxxntype
+      # OPS: |
+      #   mxxntype
 
       RCON_CMDS_STARTUP: |-
         /team add New
         /team add Old
         /gamerule randomTickSpeed 9
+        /whitelist on
+        /whitelist add mxxtype
+        /op mxxntype
       RCON_CMDS_ON_CONNECT: |-
         /team join New @a[team=]
         /clear @a[team=New]
