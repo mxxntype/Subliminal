@@ -35,6 +35,7 @@ services:
       RCON_CMDS_ON_CONNECT: |-
         /team join New @a[team=]
         /clear @a[team=New]
+        /execute as @a run function vanilla_refresh:other/actions/mob/mob_health_disable
         /team join Old @a[team=New]
       RCON_CMDS_FIRST_CONNECT: |-
         /whitelist on
