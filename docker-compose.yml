@@ -32,11 +32,12 @@ services:
         /team add New
         /team add Old
         /gamerule randomTickSpeed 9
-        /whitelist on
-        /whitelist add mxxtype
-        /op mxxntype
       RCON_CMDS_ON_CONNECT: |-
         /team join New @a[team=]
         /clear @a[team=New]
         /team join Old @a[team=New]
+      RCON_CMDS_FIRST_CONNECT: |-
+        /whitelist on
+        /whitelist add mxxntype
+        /op mxxntype
 
