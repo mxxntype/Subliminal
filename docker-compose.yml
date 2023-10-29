@@ -5,7 +5,7 @@ services:
     ports:
       - "25565:25565"
     volumes:
-      - /opt/subliminal-server:/data
+      - ./data:/data
     environment:
       EULA: "TRUE"
       TYPE: "FORGE"
