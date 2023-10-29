@@ -941,11 +941,6 @@ hash = "564fc6925be3b07a5e2a5d215dfe0643a515f0822446447198ef480126afcf4c"
 metafile = true
 
 [[files]]
-file = "mods/undead-unleashed.pw.toml"
-hash = "898eba478cec799f24c54e938d713bfeef29312ea91f9f6fcd7f13a2b8559ff8"
-metafile = true
-
-[[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "75501a153055f88fcab671c3db7dc1de7994f929b07f3178776f0f4432dd8189"
 metafile = true
