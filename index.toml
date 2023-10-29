@@ -14,7 +14,7 @@ hash = "64aeeaebe949d5c6f5999263fc87ace6a68abbf630866aa0b256ee22ee9e3e88"
 
 [[files]]
 file = "config/badmobs-common.toml"
-hash = "edc702f56856724cbca5f7ca904f3bb1c8a6be39f62a6661365654532bfa8c9a"
+hash = "7440c363808c3e3b923a5d0d7be3e03d947fda2ada480fe31622a7a7a78ecb5e"
 
 [[files]]
 file = "config/emi.css"
@@ -623,6 +623,21 @@ metafile = true
 [[files]]
 file = "mods/iter-rpg.pw.toml"
 hash = "b98a0f44f58f9be1beee1b730016f697356006b02939024ecfdc6cc660dec3c1"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "f22c5baa35be596f72485c0011c80597d3f2e06492574973912dee5e4aa54cac"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "ab01458a890921204efec5eb4589631e9a22ab805bf17be5c1cc1ad00375ffff"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "25b7d53f3cedff407d47cd8256a062b721354bb41012531fc3be13368b02abfd"
 metafile = true
 
 [[files]]
