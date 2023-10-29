@@ -1620,7 +1620,7 @@
 	#Spawning options for alexsmobs:fly
 	[alexsmobs.fly]
 		#Should the entity be allowed to spawn normally?
-		allowNormalSpawning = true
+		allowNormalSpawning = false
 		#Should spawners be able to spawn the entity?
 		allowSpawners = true
 		#Should spawn eggs be able to spawn the entity?
