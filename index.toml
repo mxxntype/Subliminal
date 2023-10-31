@@ -256,6 +256,11 @@ hash = "1bcd856ebd0358a45105fa5bcafcd649c8f08c7a19338208eeaeb885c63f818e"
 metafile = true
 
 [[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "679d617d79814f4b19c42f67cf2e8f42c671983207d89e5fd04f98c8ca01f1fb"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
 metafile = true
