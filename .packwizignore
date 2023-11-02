@@ -4,3 +4,4 @@
 options.txt
 docker-compose.yml
 subliminal-server
+data/
