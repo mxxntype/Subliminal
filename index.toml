@@ -911,8 +911,8 @@ hash = "4cd40603403545afc8ee3b9a1f6e1c121695b5a4546a6ddbe6a48aa3d67311cb"
 metafile = true
 
 [[files]]
-file = "mods/the-midnight-lurker.pw.toml"
-hash = "562e655d5735936d489a93ad24b628086c53487e275dddfd4a48b96d720cc618"
+file = "mods/the-man-from-the-fog.pw.toml"
+hash = "6c3349f0e2515d293f32337aa6b3cfa982bdb1a7f38886373d1981d3e5026be1"
 metafile = true
 
 [[files]]
