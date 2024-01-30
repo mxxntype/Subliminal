@@ -306,6 +306,11 @@ hash = "7342959eb86faf584e6d64417064dd793ae6b4667f51954f4169d11fe5f0d5da"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "4cb1daa65effd0a0c3aedc940daff42cc4c4c921b0c6135764e8370b121273d9"
+metafile = true
+
+[[files]]
 file = "mods/cooperative-advancements.pw.toml"
 hash = "2ecb81d4a471734ec2ed1a86c25c8c14051ba905f9f87e5e1879f1e5623967c3"
 metafile = true
@@ -753,6 +758,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "e2ca6014f76909ab2521d6bc67ac096bc7a603614fadfe820f72ef9be08e787c"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "a5af261cc4ab01e4f2d4e76c837ec3018d9ace1d1cfbc4672a17e094cbd2d3c9"
 metafile = true
 
 [[files]]
