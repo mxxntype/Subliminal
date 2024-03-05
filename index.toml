@@ -396,6 +396,21 @@ hash = "d369ac630667bfd827d61cfc1fa406a48d0b9e2c15abc31d1d706e3785a483e9"
 metafile = true
 
 [[files]]
+file = "mods/croptopia-additions.pw.toml"
+hash = "c8337ac62cf6831ce7fb7fe4a2e9026be93db75708152dc4957e7629f10ca4fd"
+metafile = true
+
+[[files]]
+file = "mods/croptopia-delight.pw.toml"
+hash = "10fd7a7a560b83e0f8341e6c3c9bcce8175bb0a30bcc6ab0b5beea866e45ce6c"
+metafile = true
+
+[[files]]
+file = "mods/croptopia.pw.toml"
+hash = "08d904aad2f3f7599c69545049b11227c4141a81592680a0e048f2d41a34978b"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "c3907eab7e08d7db198d2e5c3c7cd806ff406bc34f03af5b0f1dc2fdfac61a27"
 metafile = true
@@ -763,6 +778,11 @@ metafile = true
 [[files]]
 file = "mods/pams-harvestcraft-2-food-core.pw.toml"
 hash = "a5af261cc4ab01e4f2d4e76c837ec3018d9ace1d1cfbc4672a17e094cbd2d3c9"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
 metafile = true
 
 [[files]]
