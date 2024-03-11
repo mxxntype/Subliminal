@@ -31,7 +31,7 @@ services:
       RCON_CMDS_STARTUP: |-
         /team add New
         /team add Old
-        /gamerule randomTickSpeed 9
+        /gamerule randomTickSpeed 3
       RCON_CMDS_ON_CONNECT: |-
         /team join New @a[team=]
         /clear @a[team=New]
