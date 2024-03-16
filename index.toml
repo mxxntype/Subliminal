@@ -491,6 +491,11 @@ hash = "55f0f4a055003bd1945e35248bb71798de2b04963b6ad2d1b716a6f1953c29a7"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "1c57ab7a2557d0ac51e16c96de842c529d864bdfe126d5439a74524b775505a3"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "58ca900c088deaee6d6801c247cb7780fedb0cafcf046caed79a6ecef72c75c3"
 metafile = true
@@ -847,12 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "5cd0ed2f4f1e5fc7c9ae3026cb994f8712872a61827f0ca0a3db0f3953c3d288"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "3c827ff9fbf2b5bd9aaa1eedd0e246fbe15e76307de20098ec4e2f27ee18a415"
+hash = "6132d007267c3b5ad0634d2bd6e866357cfe387450ff1362e76732c75b4ea29f"
 metafile = true
 
 [[files]]
@@ -873,11 +873,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "6b18e2055cddb936210b4f5a81374e509f32513c2716f7d240647e04b17109aa"
-metafile = true
-
-[[files]]
-file = "mods/smooth-swapping.pw.toml"
-hash = "93621a2779605090b4aa0982933cff2b002ec33e025644fc1203e151da030bf6"
 metafile = true
 
 [[files]]
@@ -936,8 +931,8 @@ hash = "56f4fd4f1acc6cffb7769ec153b033963321fa78d3cb60a352b5f6af49938bbb"
 metafile = true
 
 [[files]]
-file = "mods/textrues-rubidium-options.pw.toml"
-hash = "4cd40603403545afc8ee3b9a1f6e1c121695b5a4546a6ddbe6a48aa3d67311cb"
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "499d3c92a35266a11112df08d5c728b01d67051771a777f0bfbf4b92a73173f9"
 metafile = true
 
 [[files]]
