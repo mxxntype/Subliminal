@@ -19,7 +19,10 @@ services:
       MODE: "survival"
       DIFFICULTY: "hard"
       MAX_PLAYERS: "8"
+      ALLOW_FLIGHT: "true"
+
       MOTD: "Packwiz + Docker | Forge 1.19.2"
+      ICON: "https://img.icons8.com/bubbles/100/minecraft-logo--v1.png"
 
       ONLINE_MODE: "false"
       # ENABLE_WHITELIST: "true"
