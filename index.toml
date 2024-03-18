@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "85449530600b2d66b36bf519dcc02065f65cdc54861da7f21f9257ed8f3f96c7"
+hash = "34bb78aefbb55ece8a1302d0a087ef1ad7538f158f095ebd14095b13f9d885fa"
 metafile = true
 
 [[files]]
