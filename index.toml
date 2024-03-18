@@ -296,6 +296,11 @@ hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
 
 [[files]]
+file = "mods/connectedness.pw.toml"
+hash = "7b8944c22e5deef4ec333194484db891130d683613e7ed9714e90f2c4ee77fed"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "fdc23bfad14323b81de25b84d3324bc0445a3f10e6c2d90d20cc3a1a9ecfb121"
 metafile = true
@@ -828,6 +833,11 @@ metafile = true
 [[files]]
 file = "mods/refined-advancements.pw.toml"
 hash = "5508098b317629352f08368ac597b08fd45fee38b2cf9de5cc3a89a5a1ba42a5"
+metafile = true
+
+[[files]]
+file = "mods/reforgium.pw.toml"
+hash = "fa67ee268eb8746d34bf965162c5a058da1ba465538ff0dce73da70c6c2d8902"
 metafile = true
 
 [[files]]
