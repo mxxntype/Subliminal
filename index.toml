@@ -261,6 +261,11 @@ hash = "679d617d79814f4b19c42f67cf2e8f42c671983207d89e5fd04f98c8ca01f1fb"
 metafile = true
 
 [[files]]
+file = "mods/cit-reforged.pw.toml"
+hash = "a19297bc1c40d0e52dc8854f6ac59d41b741b3b20537f8f1c2b57742b9cc2401"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
 metafile = true
