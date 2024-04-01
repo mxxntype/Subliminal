@@ -336,6 +336,11 @@ hash = "a4c70d2425f0b5673281aa9d2a6b1d4ffec8c80a3a5ecdedce00f97eb589424c"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
+metafile = true
+
+[[files]]
 file = "mods/create-ad-astra-compat.pw.toml"
 hash = "2dfff1ab10301fb7643aede164b57581f08a794ca8974824541d823658dfd8e9"
 metafile = true
